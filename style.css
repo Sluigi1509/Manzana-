@@ -1,0 +1,45 @@
+.Options {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    padding: 60px;
+    flex-wrap: wrap;
+    list-style: none;
+}
+.Options li {
+    min-width: max-content;
+}
+.Inicio {
+    display: flex;
+}
+.Barra {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.BotonesB {
+    gap: 25px;
+}
+.ImagenCen {
+    display: flex;
+    justify-content: center;
+   
+
+}
+.CompraBo {
+    display: flex;
+    justify-content: center;
+    gap: 30px; 
+    border-radius: 80px;  
+}
+.Learn {
+    color: aliceblue;
+    background-color: black;
+    border-radius: 80px;
+}
+.Si {
+    display: flex;
+ flex-direction: column;
+ gap: 30px;
+}
+
